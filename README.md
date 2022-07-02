@@ -14,7 +14,9 @@ pip install opentele, anyascii, python-socks[asyncio]
 ```
 pip install pyinstaller
 ```
-
+### Lưu ý:
+  Avatar lấy từ thư mục images, nên để kích thước ảnh to to 1 xíu, nhỏ quá sẽ lỗi :>
+  
 ## Cách chạy
 - Nếu chạy từ python: ```python path\to\file\session mode pass2fa hint [proxy-ip] [proxy-port]```
 - Nếu chạy từ exe: ```ConvertSessionToTdata.exe path\to\file\session mode pass2fa hint [proxy-ip] [proxy-port]```
